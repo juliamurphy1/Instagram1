@@ -1,0 +1,156 @@
+	.img-responsive {
+		width: 100%;
+	}
+
+	.right_outer_box {
+		border-style: solid;
+		padding-bottom: 2px;
+		padding-top: 2px;
+		color: #DCDCDC;
+		padding-left: 25px;
+		padding-right: 25px;
+		background-color: #fff;
+
+	}
+	.bottom_right_outer_box {
+		border-style: solid;
+		padding-bottom: 2px;
+		padding-top: 2px;
+		color: #DCDCDC;
+		padding-left: 25px;
+		padding-right: 25px;
+		margin-top: 5px;
+		background-color: #fff;
+	}
+
+	body {
+		background-color: #fafafa;
+		margin: 0;
+		padding: 0; 
+
+	}
+	.iphone {
+		margin-left: 200px;
+
+	}
+	#wrapper {
+		width: 1000px;
+		background-color: white;
+		padding: 50px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	#left_column {
+		background-color: #fff;
+		width: 590px;
+		padding: 40px;
+		float: left;
+		box-sizing: border-box;
+		margin-left: auto;
+	}
+
+	#right_column {
+		background-color: #fff;
+		width: 590px;
+		padding: 20px;
+		float: left;
+		box-sizing: border-box;
+	}
+
+	.clr {
+		clear: both;
+	}
+
+	h1 {
+		font-family: 'Satisfy', cursive;
+		font-size: 40px;
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+		color: #262626;
+	}
+
+	.facebook {
+		border-style: solid;
+		border: 15px 15px 15px 15px;
+		border-color: #3897f0;
+		font-size: 10px;
+		background-color: #3897f0;
+		color: white;
+	}
+	.fblogo {
+		float: left;
+	}
+
+	a {
+		text-decoration: none;
+	}
+
+	.line {
+		border-style: solid;
+		border-bottom: 20px;
+		padding-top: 30px;
+	}
+
+	.sign_up_form1 {
+		border-style: solid;
+		padding-bottom: 2px;
+		padding-top: 2px;
+		color: gray;
+	}
+	.sign_up_form2 {
+		border-style: solid;
+		padding-bottom: 2px;
+		padding-top: 2px;
+		border-top: none;
+		color: gray;
+	}
+	.sign_up_form3 {
+		border-style: solid;
+		padding-bottom: 2px;
+		padding-top: 2px;
+		border-top: none;
+		color: gray;
+	}
+	.sign_up_form4 {
+		border-style: solid;
+		padding-bottom: 2px;
+		padding-top: 2px;
+		border-top: none;
+		color: gray;
+	}
+
+	h3 {
+		font-size: 10px;
+		color: gray;
+	}
+
+	.next {
+		text-align: center;
+	}
+
+	.line {
+		border-style: solid;
+		border-bottom: 10px;
+		font-family: calibri;
+		text-align: center;
+		padding-top: 5px;
+		border-top: none;
+		border-left: none;
+		border-right: none;
+	}
+	.disclaimer {
+		padding-bottom: 2px;
+		padding-top: 2px;
+		border: none;
+		color: gray;
+
+
+	.account_link {
+		display: inline;
+
+	}
+ 
+
+	}
