@@ -40,7 +40,19 @@
 		margin-left: auto;
 		margin-right: auto;
 	}
-	
+	@media only screen and (max-width: 1200px) {
+		#wrapper {
+			width: 600px;
+			padding: none;
+		}
+	}
+
+	@media only screen and (max-width: 800px) {
+		#wrapper {
+			width: 600px;
+			padding: none;
+		}
+	}
 	#left_column {
 		background-color: #fff;
 		width: 590px;
