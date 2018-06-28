@@ -10,7 +10,7 @@
 		padding-left: 25px;
 		padding-right: 25px;
 		background-color: #fff;
-
+		width: 300px;
 	}
 	.bottom_right_outer_box {
 		border-style: solid;
@@ -21,6 +21,7 @@
 		padding-right: 25px;
 		margin-top: 5px;
 		background-color: #fff;
+		width: 300px;
 	}
 
 	body {
@@ -47,12 +48,14 @@
 		}
 	}
 
+
 	@media only screen and (max-width: 800px) {
 		#wrapper {
 			width: 600px;
 			padding: none;
 		}
 	}
+	
 	#left_column {
 		background-color: #fff;
 		width: 590px;
@@ -69,6 +72,7 @@
 		float: left;
 		box-sizing: border-box;
 	}
+
 
 	.clr {
 		clear: both;
@@ -90,6 +94,8 @@
 		font-size: 10px;
 		background-color: #3897f0;
 		color: white;
+		width: 300px;
+		font-family: calibri;
 	}
 	.fblogo {
 		float: left;
@@ -110,6 +116,8 @@
 		padding-bottom: 2px;
 		padding-top: 2px;
 		color: gray;
+		width: 300px;
+		font-family: calibri;
 	}
 	.sign_up_form2 {
 		border-style: solid;
@@ -117,6 +125,8 @@
 		padding-top: 2px;
 		border-top: none;
 		color: gray;
+		width: 300px;
+		font-family: calibri;
 	}
 	.sign_up_form3 {
 		border-style: solid;
@@ -124,6 +134,8 @@
 		padding-top: 2px;
 		border-top: none;
 		color: gray;
+		width: 300px;
+		font-family: calibri;
 	}
 	.sign_up_form4 {
 		border-style: solid;
@@ -131,6 +143,8 @@
 		padding-top: 2px;
 		border-top: none;
 		color: gray;
+		width: 300px;
+		font-family: calibri;
 	}
 
 	h3 {
